@@ -1,7 +1,9 @@
 package main.java;
 
-public class String {
+public class Array {
+
 	public static void main(String[] args) {
-		java.lang.String hola="";
+		int [] numeros={1,2,3,4,5};
 	}
+
 }

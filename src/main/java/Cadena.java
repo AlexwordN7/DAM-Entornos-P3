@@ -1,9 +1,7 @@
 package main.java;
 
-public class Arrays {
-
+public class Cadena {
 	public static void main(String[] args) {
-		int [] numeros={1,2,3,4,5};
+		String hola="";
 	}
-
 }
