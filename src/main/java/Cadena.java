@@ -8,10 +8,17 @@ public class Cadena {
 		
 	}
 	
+	public static void mayusculaMinuscula(String palabra) {
+		
+		System.out.println(palabra.toLowerCase());
+		System.out.println(palabra.toUpperCase());
+	}
+	
 	public static void main(String[] args) {
 		String hola="";
 		
 		longitudNombre(hola);
+		mayusculaMinuscula(hola);
 
 	}
 }
